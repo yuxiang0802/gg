@@ -1,0 +1,73 @@
+add_diag_label          Add diagnoal labels on correlation plot
+add_grid                Add panel grid line on correlation plot
+anno_bar                Custom annotation
+anno_hc_rect            Square annotation
+anno_link               Link annotation layers of curves, nodes, and
+                        labels.
+anno_network            Network annotation
+anno_row_tree           Annotation for correlation matrix plot
+as.igraph.cor_tbl       Corece to a igraph object
+as_cor_network          Coerce to a cor_network object
+as_cor_tbl              Coerce to a cor_tbl object
+as_dplot                Decoration plot
+as_matrix               Convert a object to matrix
+as_tbl_graph.cor_tbl    Corece to a graph_tbl object
+brown_blue              Colour pal
+calc_relimp             Relative importance
+cor_network             Tidy co-occurrence network data
+cor_tbl                 Create a cor_tbl object
+correlate               Matrix of Correlations, P-values and confidence
+                        intervals
+display_cor             Display correlation matrix with nice format
+expand_axis             Expand axis limits
+export_cor_network      Output co-network object
+fortify_cor             Convert to cor_tbl based on input type.convert
+fortify_mantel          Mantel test
+fortify_procrutes       Procrutes test for dissimilarity matrices
+gcor_tbl                Create a general cor_tbl object
+geom_anno_tile          Annotation tile layer
+geom_circle2            Circle Geom
+geom_colour             Colour Geom
+geom_confbox            Confident-Box Geom
+geom_cross              Cross Geom
+geom_ellipse2           Ellipse Geom
+geom_links              Curve layer
+geom_links2             Curve layer with custom aesthetics
+geom_mark               Significant marks Geom
+geom_number             Format number Geom
+geom_pie2               Ring Geom
+geom_segment2           Segment2 layer
+geom_shade              Shade Geom
+geom_square             Square Geom
+geom_star               Star Geom
+get_data                Create cor_tbl extractor function
+get_lower_data          Helper function to extract cor_tbl.
+get_order               Extract order
+get_row_name            Helper function for cor_tbl
+ggcor                   Create a correlation plot
+ggcor_packages          ggcor: Extended tools for correlation analysis
+                        and visualization
+guide_colourbar2        Colourbar legend for upper-lower triangle
+                        aesthetics
+liner_trans             Scale continuous
+link_tbl                Transform data base on different layout
+matrix_order            Reorder Matrices
+mono_mds                Helper functions for procrutes test
+print.correlate         Print correlate object.
+quickcor                Plot Correlation Matrix Quickly
+rand_correlate          Make dataset
+random_forest           Random forests
+remove_axis             Remove axis elements.
+scale_colour_gradient2n
+                        Colour scales for correlation plot
+scale_fill0_continuous
+                        Row fill scales This set of scales defines
+                        stuff scales for equivalent to the ones already
+                        defined by ggplot2.
+scale_fill2_continuous
+                        Column fill scales This set of scales defines
+                        stuff scales for equivalent to the ones already
+                        defined by ggplot2.
+scale_radius_area       Scale radius
+set_p_xaxis             Set axis labels
+theme_cor               Create the default ggcor theme
